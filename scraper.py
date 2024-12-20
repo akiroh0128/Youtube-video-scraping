@@ -158,7 +158,7 @@ class YouTubeDataScraper:
 
 def main():
     # Replace with your API key
-    API_KEY = 'Your-API-key'
+    API_KEY = 'YOUR_API_KEY_HERE'
     
     scraper = YouTubeDataScraper(API_KEY)
     
